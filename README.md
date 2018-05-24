@@ -1,2 +1,2 @@
 # CIS-2D-Finals
-This is will have examples for my finals 
+This is will have files and outlines in README.md.
