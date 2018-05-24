@@ -1,4 +1,4 @@
-<H1>CHAPTER 2</H1> 
+<H1>Android's Implementation of Java</H1> 
 <br />
 
 -	Programming Android apps with Java is similar to other Java platforms. The syntax is the same, and most of Java's core APIs work the same.
@@ -51,7 +51,7 @@
 <br />
 <br />
 
-<H1>CHAPTER 3</H1>
+<H1>Common Java Design Patterns in Android</H1>
 <br />
 
 -	Java developers who work in Android should have knowledge on inheritance. How each class can extend and inherit the capabilities of a super class.
@@ -84,7 +84,7 @@
 <br />
 <br />
 
-<H1>CHAPTER 4</H1>
+<H1>The Android SDK's Java Packages</H1>
 <br />
 
 -	The Android SDK's Java implementation includes packages that exactly follow Oracle's API specifications.
@@ -113,7 +113,7 @@
 <br />
 <br />
 
-<H1>CHAPTER 5</H1>
+<H1>Android-Specific Java Packages</H1>
 <br />
 
 -	Many of the Android SDKs Java packages are designed to accomplish tasks that are specific to the Operating System and the Application Framework.
@@ -136,7 +136,7 @@
 <br />
 <br />
 
-<H1>CHAPTER 6</H1>
+<H1>Java 8 Syntax for Android</H1>
 <br />
 
 -	You can add Java 8 support to an Android project in any recent version of Android studio.
